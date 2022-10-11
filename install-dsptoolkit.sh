@@ -5,7 +5,7 @@ apt update
 #apt install -y python3-pip libxslt1-dev libxml2-dev zlib1g-dev python3-lxml python-lxml libxml2-dev libxslt-dev python-dev
 
 #### Debian Bullseye
-apt install python3-pip libxslt1-dev libxml2-dev zlib1g-dev python3-lxml libxml2-dev libxslt1-dev python-dev-is-python3 libasound2-dev
+apt install -y python3-pip libxslt1-dev libxml2-dev zlib1g-dev python3-lxml libxml2-dev libxslt1-dev python-dev-is-python3 libasound2-dev
 
 pip3 install --upgrade hifiberrydsp
 
